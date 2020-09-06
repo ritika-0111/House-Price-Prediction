@@ -24,7 +24,7 @@ set FLASK_APP = app.py
 ```
 
 ## Dataset
-Created dummy sales dataset for this project which has four columns — rate of interest, sales in first month, sales in second month and sales in third month.  
+Created dummy sales dataset for this project which has four columns — rate , sales_in_first_month, sales_in_second_month and sales_in_third_month
 
 ## Project Structure
 *model.py*                 (contains code for the machine learning model to predict sales in the third month based on the sales in the first two months.)  
